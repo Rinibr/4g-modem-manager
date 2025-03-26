@@ -1,0 +1,4 @@
+tkinter
+telnetlib
+pyqt5
+requests
