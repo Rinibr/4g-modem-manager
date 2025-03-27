@@ -1,6 +1,10 @@
 # 4G Modem Manager
 
-This project is a graphical user interface (GUI) application designed to manage a 4G modem using Telnet access on port 4719. The application allows users to connect to the modem, send commands, and manage settings through an intuitive interface.
+This project is a graphical user interface (GUI) application designed to manage a ALK_790 4G modem using Telnet access on port 4719. The application allows users to connect to the modem, send commands, and manage settings through an intuitive interface.
+
+Login/password default:
+admin
+admin
 
 ## Features
 
